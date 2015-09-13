@@ -20,7 +20,7 @@ using namespace std;
 ///////////////////////////////////////////////////////////////////////////////
 
 ///////////////////////////////////////////////////////////////////////////////
-// Generador de nÃºmeros aleatorios. 
+// Generador de numeros aleatorios. 
 // Los objetos de esta clase sirven para generar nÃºmeros aleatorios a demanda 
 // con el metodo "Next" entre los valores "min" y "max". 
 
