@@ -104,7 +104,7 @@ private:
 	int vida;			// MAX: 100
 	
 	double ataque;		// MAX: 100 (15) - MIN: 50 (7.5)
-	double defensa;	// MAX: 100 (0.55) - MIN: 55 (1)
+	double defensa;		// MAX: 100 (0.55) - MIN: 55 (1)
 	
 	double superataque;
 	double aumento_ataque;
@@ -113,7 +113,7 @@ private:
 public:
 	
 	// CONSTRUCTOR
-	// Recibe un nÃºmero, el dictador a elegir
+	// Recibe un numero
 	
 	Dios (int entrada_id)
 	{
