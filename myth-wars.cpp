@@ -20,7 +20,7 @@ using namespace std;
 ///////////////////////////////////////////////////////////////////////////////
 
 ///////////////////////////////////////////////////////////////////////////////
-// Generador de numeros aleatorios. 
+// Generador de nÃºmeros aleatorios. 
 // Los objetos de esta clase sirven para generar nÃºmeros aleatorios a demanda 
 // con el metodo "Next" entre los valores "min" y "max". 
 
@@ -348,29 +348,29 @@ int main (void)
 			cout << "ZEUS, el padre de los dioses y los hombres, gobernaba " << endl;
 			cout << "a los dioses del Olimpo como un padre a una familia." << endl;
 			cout << "Supervisor del universo, era el dios del cielo y el trueno." << endl;
-			cout << "Entre sus atributos, se incluyen el rayo, el Ã¡guila, el toro" << endl;
+			cout << "Entre sus atributos, se incluyen el rayo, el aguila, el toro" << endl;
 			cout << "y el roble." << endl;
 			break;
 		
 		case 2:
 			cout << "HADES, el dios del inframundo griego, hijo de Cronos y Rea." << endl;
-			cout << "Junto con sus hermanos Zeus y PoseidÃ³n derrotaton a los Titanes" << endl;
-			cout << "y reclamaron el gobierno del cosmos, adjudicÃ¡ndose el inframundo," << endl;
+			cout << "Junto con sus hermanos Zeus y Poseidon derrotaton a los Titanes" << endl;
+			cout << "y reclamaron el gobierno del cosmos, adjudicandose el inframundo," << endl;
 			cout << "el cielo y el mar." << endl;
 			break;
 		
 		case 3:
 			cout << "POSEIDON, el dios de las aguas y de los terremotos. Ocupa el" << endl;
-			cout << "panteÃ³n olÃ­mpico junto con sus hermanos Zeus y Hades. Se dice de" << endl;
-			cout << "Ã©l que tuvo muchos hijos y fue protector de gran cantidad de" << endl;
-			cout << "ciudades helenas, aunque perdiÃ³ el concurso por Atenas contra Atenea" << endl;
+			cout << "panteon olimpico junto con sus hermanos Zeus y Hades. Se dice de" << endl;
+			cout << "el que tuvo muchos hijos y fue protector de gran cantidad de" << endl;
+			cout << "ciudades helenas, aunque perdio el concurso por Atenas contra Atenea" << endl;
 			break;
 		
 		case 4:
-			cout << "ATENEA, hija de Zeus, diosa de la guerra, civilizaciÃ³n, sabidurÃ­a," << endl;
+			cout << "ATENEA, hija de Zeus, diosa de la guerra, civilizacion, sabiduria," << endl;
 			cout << "de las artes, de la justicia y de la habilidad. Una de las principales" << endl;
-			cout << "divinidades del panteÃ³n griego y una de los doce dioses olÃ­mpicos," << endl;
-			cout << "Atenea recibiÃ³ culto en toda la Grecia Antigua." << endl;
+			cout << "divinidades del panteon griego y una de los doce dioses olimpicos," << endl;
+			cout << "Atenea recibio culto en toda la Grecia Antigua." << endl;
 	}
 	
 	cout << endl << endl;
@@ -1011,4 +1011,4 @@ int main (void)
 	system("pause");
 		
 	return (0);
-}
+}	
